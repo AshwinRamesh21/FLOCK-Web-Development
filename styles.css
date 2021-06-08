@@ -1,0 +1,17 @@
+marquee
+{
+	color: greenyellow;
+}
+
+p,ul,h1,h2,h3,h4 
+{
+  		color: white;		
+}
+
+body 
+{
+  	background-image: url('tenor.gif');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+}
